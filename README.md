@@ -4,11 +4,6 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 The Pre-work Study Guide Webpage serves as a retainer of information for what I have and will learn throughout the bootcamp. Not only does it serve as a study guide, but also as a reminder of the foundation of my skills for when I look back on it in the future.
 
 My eagerness and drive to start learning about coding and web development was my main motivation throughout completing this work.
